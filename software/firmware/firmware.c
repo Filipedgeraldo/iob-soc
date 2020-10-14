@@ -2,6 +2,7 @@
 #include "system.h"
 #include "periphs.h"
 #include "iob-uart.h"
+#include "iob_timer.h"
 
 int main()
 {
